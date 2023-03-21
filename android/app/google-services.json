@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965345003353",
+    "project_id": "gamingggle-fantasy-cricket",
+    "storage_bucket": "gamingggle-fantasy-cricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965345003353:android:4a717cd60f5ab0a6e86e48",
+        "android_client_info": {
+          "package_name": "com.crick11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965345003353-e8u5fp5qdrltmugd6gkedts4cuif1nb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crick11",
+            "certificate_hash": "1aacac1d5c8d97bfce502e74316e938fb03b3705"
+          }
+        },
+        {
+          "client_id": "965345003353-rvf2qk3m8qsnc4ik9va00omgqdsmqlei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrsIW6wfcAECgoE0QJ-Ffp4IYXi2bSSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965345003353-6ui4q6f9coqrp93nfnqs92ej4577l628.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
